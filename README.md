@@ -5,9 +5,10 @@ This is a fork of https://github.com/fastai/diffusion-nbs that provides a Pipfil
 
 ## Set up your environment
 
-Clone this repo:
+Clone this repo and checkout the 'main' branch:
 ```
 git clone https://github.com/jason-weddington/diffusion-nbs.git
+git checkout main
 ```
 
 CD into the newly cloned directory:
